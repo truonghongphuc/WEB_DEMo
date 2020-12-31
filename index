@@ -1,0 +1,107 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="lang-en">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/CSS/unitop.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+    </head>
+    <body>
+        <div class="layout">
+            <header>
+                <div class="header">
+                    <div class="contanier_header">
+                        <div class="contanier_topheader">
+                            <div class="topheader">
+                                <div class="topheader_left">
+                                    <ul>
+                                        <li><a href="#"> Đăng Kí</a></li>
+                                        <li><a href="#"> Kích Hoạt</a></li>
+                                        <li><a href="#"> Blogs</a></li>
+                                    </ul>
+                                </div><!--close topheader_left-->
+                                <div class="topheader_right">
+                                    <ul>
+                                        <i class="fa fa"></i>
+                                        <li><a href="#">Kích hoạt</a></li>
+                                        <li><a href="#">Blog</a></li>
+                                        </ul>
+                                </div><!--close topheader_right-->
+                            </div><!--close topheader-->
+                        </div><!--contanier-topheader-->
+                        <div class="contanier_midheader">
+                            <div class="midheader">
+                                <div class="midheader_left">
+                                    <h1><a href="#"><img src="/CSS/logo.png" alt="logo"></a></h1>
+                                </div><!--close midheader_left-->
+                                <div class="midheader_right">
+                                    <div id="tuvan">
+                                        <a href="#"> <i class="far fa-question-circle"></i> Vẫn Miễn Phí</a>
+                                    </div>  
+                                </div><!--close midheader_left-->
+                            </div><!--close midheader-->
+                        </div><!--close contanier_midheader-->
+                    </div>    <!--close contanier_header-->  
+                </div><!--close header-->
+            </header><!--close header-->
+            <div class="nav">
+                <nav>
+                    <div class="contanier_nav">
+                        <div class="main_menu">
+                            <div class="menu">
+                                <div id="left_menu">
+                                    <ul>
+                                        <li><a href="#">TRANG CHỦ   </a></li>
+                                        <li><a href="#" id="drow">LỘ TRÌNH</a></li>
+                                        <li><a href="#">COMBO</a></li>
+                                        <li><a href="#">ĐANG HỌC</a></li>
+                                        <li><a href="#">THÀNH VIÊN  </a></li>
+                                        <li><a href="#">Ý KIẾN HỌC VIÊN  </a></li>
+                                        <li><a href="#">MIỄN PHÍ </a></li>
+                                        <li><a href="#">YOUTUBE</a></li>
+                                    </ul>
+                                </div><!--close left_menu-->
+                                <div id="right_menu">
+                                    <a href="#" >ĐĂNG NHẬP</a>
+                                </div><!--cloese right_menu-->
+                            </div><!--close menu-->
+                        </div><!--close main_menu-->
+                    </div> <!--close contanier_nav--> 
+                </nav><!--close nav-->
+            </div><!--close_nav-->
+            <div class="content">
+                <section>
+                    <div class="contanier_content">
+                        <div class="contanier_content_left">
+                            <div class="contanier_content_left_introduce">
+                                <h2>Bộ khóa học lập trình web online giúp bạn đi làm chỉ sau 3-5 tháng</h2>
+                            </div>
+                            <div class="contanier_content_left_text">
+                                <p>
+                                    Chúng tôi giúp bạn học lập trình web đi làm chỉ từ sau <br>
+                                    3 đến 5 tháng thay vì học mò mẫm không có hiệu quả. <br>
+                                    Bạn được hỗ trợ 24/24 từ người dướng dẫn, học bất kỳ <br>
+                                    lúc nào, học bất kỳ đâu. Hiện đã có hơn 1.200 người <br>
+                                    theo học và có kết quả tốt, bây giờ đến lượt bạn! <br>
+                                </p>
+                    
+                            </div>
+                        </div><!--close contanier_content_left-->
+                        <div class="contanier_content_right">
+                            <div class="contanier_content_right_video">
+                                <div id="video">
+
+                                </div>
+                                <div id="contact">
+
+                                </div>
+                            </div>
+                        </div><!--close contanier_content_right-->
+                    </div><!--close contanier_content-->
+                </section><!--close section-->
+            </div><!--close_conent-->
+    
+        </div><!--close layout-->
+    </body>
+</html>
